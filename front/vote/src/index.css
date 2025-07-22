@@ -1,0 +1,20 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+}
+.app-header {
+  background-color: #0047ab;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+.app-header nav {
+  margin-top: 1rem;
+}
+.app-header nav a {
+  margin: 0 10px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
